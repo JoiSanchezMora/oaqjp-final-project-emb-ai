@@ -1,6 +1,8 @@
-# Emotion Detector App
+# Final Project - Emotion Detection Application
 
-This project is a web-based emotion detection application built using Python and Flask.
+This project is part of the Final Project for the course.
+
+It implements an AI-based Emotion Detection application using Watson NLP and Flask.
 
 ## Features
 
